@@ -1,0 +1,44 @@
+Core Java
+Selenium
+TestNG
+Cucumber
+BitBucket
+Postman
+API Testing
+JMeter
+LoadRunner
+SQL
+TeamCity
+JIRA
+
+Core Java
+Selenium
+TestNG
+Cucumber
+BitBucket
+Postman
+API Testing
+JMeter
+LoadRunner
+SQL
+TeamCity
+JIRA
+Jenkins
+
+040924-Ellucian
+Core Java
+JavaScript
+Selenium
+Test NG
+Playwright
+Neoload
+Git
+JIRA
+API Testing
+SQL
+Jenkins
+BitBucket
+Postman
+Bruno
+Rest Assured
+Cucumber
